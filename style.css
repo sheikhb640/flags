@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+.main{
+    height: 300px;
+    width: 400px;
+    margin: 100px auto;
+    /* border: 2px solid black; */
+}
+.blue {
+    height: 150px;
+    width: 400px;
+    background-color: #0056b8;
+}
+
+.yellow {
+    height: 150px;
+    width: 400px;
+    background-color: #ffd800;
+}
+
+.japan{
+    margin: 10px auto;
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    border: 2px solid white;
+}
+
+.red{
+    background-color: #ed1b24;
+    height: 150px;
+    width: 150px;
+    margin-left: 120px;
+    margin-top: 75px; 
+    border-radius: 100%;
+}
